@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: app-config-server
+  profiles:
+    active: git
+  clo
